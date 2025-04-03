@@ -1,4 +1,5 @@
 # Ejemplo de Principio de Single Responsability en Java
+Las `clases` solamente deberian tener una responsabilidad.
 
 ### **Clase ReportGenerator:** SOLAMENTE para `genera un Reporte`
 ```java
